@@ -112,4 +112,5 @@ void loop() {
 **a. Record and upload a short demo video of your logger in action.**
 
 [video](https://drive.google.com/file/d/1Pk6X7k22shPRj4MNAL9Xvrs9tZyWn-WJ/view?usp=sharing)
+
 [code](https://github.com/Yiyuan7/IDD-Fa18-Lab3/blob/master/dataLogger.ino)
