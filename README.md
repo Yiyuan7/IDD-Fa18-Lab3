@@ -105,6 +105,8 @@ void loop() {
  
 **a. Insert here a copy of your final state diagram.**
 
+![diagram](https://github.com/Yiyuan7/IDD-Fa18-Lab3/blob/master/IMG_1663.JPG)
+
 ### 3. Create your data logger!
  
 **a. Record and upload a short demo video of your logger in action.**
