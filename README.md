@@ -52,13 +52,22 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 
 **a. Does it matter what actions are assigned to which state? Why?**
 
+yes, because if you take write s first step, clen up as secong, show on screen as third step, then we cna see nothing at this time.
+
 **b. Why is the code here all in the setup() functions and not in the loop() functions?**
+
+In the main function, the code lies in loop(). It can call those stat0/state1/state2's code in setup()
 
 **c. How many byte-sized data samples can you store on the Atmega328?**
 
+
 **d. How would you get analog data from the Arduino analog pins to be byte-sized? How about analog data from the I2C devices?**
 
+set `analogReadResolution(8)` before `analogRead()`   
+
 **e. Alternately, how would we store the data if it were bigger than a byte? (hint: take a look at the [EEPROMPut](https://www.arduino.cc/en/Reference/EEPROMPut) example)**
+
+everytime we store a n-bit data, we move the address pointer forward by n.
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
 
