@@ -45,7 +45,7 @@ It's linear
  
 **a. Include your accelerometer read-out code in your write-up.**
 
-
+[acc_code](https://github.com/Yiyuan7/IDD-Fa18-Lab3/blob/master/acc_code.ino)
 
 ### 3. IR Proximity Sensor
 
@@ -56,7 +56,7 @@ Yes, it match.
 
 **b. Upload your merged code to your lab report repository and link to it here.**
 
-
+[merge_code](https://github.com/Yiyuan7/IDD-Fa18-Lab3/blob/master/merge_code.ino)
 
 ## Optional. Graphic Display
 
